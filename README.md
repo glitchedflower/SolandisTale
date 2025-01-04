@@ -1,9 +1,9 @@
 # Solandis!Tale
 
 ## About
-![](https://img.shields.io/github/release-pre/TML233/undertale_engine.svg?style=flat-square ":no-zoom")
-![](https://img.shields.io/github/stars/TML233/undertale_engine.svg?style=flat-square ":no-zoom")
-![](https://img.shields.io/github/license/TML233/undertale_engine.svg?style=flat-square ":no-zoom")
+![](https://img.shields.io/github/release-pre/glitchedflower/solandistale.svg?style=flat-square ":no-zoom")
+![](https://img.shields.io/github/stars/glitchedflower/solandistale.svg?style=flat-square ":no-zoom")
+![](https://img.shields.io/github/license/glitchedflower/solandistale.svg?style=flat-square ":no-zoom")
 
 **Solandis!Tale** is a GameMaker project with pre-made code and resources all ready for making the Undertale fangame, Solandis!Tale.
 It includes the battle system, the overworld system, the multi-language system alongside other various useful features.
